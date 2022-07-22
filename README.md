@@ -1,5 +1,5 @@
 # Brushless code 
-'''c++
+``` c++ 
 int buttonState = 0;
 int potensio = 0;
 int saveData = 0;
@@ -40,4 +40,4 @@ void right()
   analogWrite(pwm, saveData);
   delay(15);
 }
-'''
+```

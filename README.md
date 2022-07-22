@@ -5,7 +5,6 @@ int saveData = 0;
 int pinA = 7;
 int pinB = 8;
 int pwm = 9;
-
 void setup()
 {
   pinMode(2, INPUT);

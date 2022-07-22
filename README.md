@@ -1,10 +1,12 @@
 # Brushless code 
->int buttonState = 0;
+'''c++
+int buttonState = 0;
 int potensio = 0;
 int saveData = 0;
 int pinA = 7;
 int pinB = 8;
 int pwm = 9;
+
 void setup()
 {
   pinMode(2, INPUT);
@@ -38,3 +40,4 @@ void right()
   analogWrite(pwm, saveData);
   delay(15);
 }
+'''

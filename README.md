@@ -1,4 +1,4 @@
-#EE---Task-1
+# EE---Task-1
 EE Task 1 , 2 & 3: 
 
 1- Brushless motor control system design, including the algorithm and the electronic circuit. 
@@ -97,4 +97,4 @@ The supply of the motor must be connected ( 5V and ground GND) First, Create a f
 
 <a name= "4"></a>
 ## Participated in the Task: 
-- Abdulwahab Dhifallah [@Elechop](https://github.com/Elechop)
+- Abdulmjeed Mohammad [@MjeedM](https://github.com/MjeedM)
